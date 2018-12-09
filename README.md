@@ -1,0 +1,2 @@
+# Available-bikes-prediction-with-LSTM
+We are going to study bicycle movements in Dublin city.   We will retrieve the station data using the JCDeacaux API, store them in a document oriented, NO SQL database: MongoDB.  Then study the static and dynamic data in this database, and we will predict for each station, the number of bicycles available per station, with  LSTM neural network, to display at the end to the user, the stations that are close to him with the approximate number of bicycles available in each station.   
